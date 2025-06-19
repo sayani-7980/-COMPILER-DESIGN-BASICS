@@ -1,1 +1,15 @@
 # -COMPILER-DESIGN-BASICS
+
+*NAME*:SAYANI BASAK
+
+*INTERN ID*:CT04DL1139
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*DURATION*:4 WEEKS
+
+*DOMAIN*: C PROGRAM
+
+*MENTOR*:NEELA SANTOSH
+
+The lexical analyzer programs provided demonstrate the basic principles of lexical analysis in compiler design using the C programming language. The first program reads a C source file and identifies keywords, identifiers, and single-character operators by comparing tokens against a predefined list and using character checks. It offers a foundational approach to understanding how source code is broken down into meaningful components. The second, enhanced version expands on this by recognizing numeric constants and multi-character operators such as ==, !=, <=, and >=, providing more accurate token classification. Both programs use standard file handling and string operations in C, making them suitable for educational purposes and introductory-level compiler construction projects.
